@@ -1,0 +1,15 @@
+td, th {
+    border: 1px solid gainsboro;
+}
+
+tr:nth-of-type(even) {
+    background-color:ghostwhite;
+}
+
+.quote {
+    background-color: ghostwhite;
+    border-left: 3px solid gainsboro;
+    padding: 10px 5px;
+}
+
+

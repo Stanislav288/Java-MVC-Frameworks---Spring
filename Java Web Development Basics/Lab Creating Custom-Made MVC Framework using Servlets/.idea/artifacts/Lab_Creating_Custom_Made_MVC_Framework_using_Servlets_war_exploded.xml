@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Lab Creating Custom-Made MVC Framework using Servlets:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab_Creating_Custom_Made_MVC_Framework_using_Servlets_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Lab Creating Custom-Made MVC Framework using Servlets/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Lab Creating Custom-Made MVC Framework using Servlets" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

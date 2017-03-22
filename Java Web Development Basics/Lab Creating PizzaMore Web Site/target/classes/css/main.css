@@ -1,0 +1,14 @@
+#myCarousel{
+	height:100%;
+	width:auto;
+	position:absolute;
+}
+
+.carousel-inner{
+	height:100%;
+	width:auto;
+}
+
+.container-fluid{
+	padding:0;
+}

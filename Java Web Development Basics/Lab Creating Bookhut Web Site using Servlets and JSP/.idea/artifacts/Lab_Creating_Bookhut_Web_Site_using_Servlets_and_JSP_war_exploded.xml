@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="Lab Creating Bookhut Web Site using Servlets and JSP:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab_Creating_Bookhut_Web_Site_using_Servlets_and_JSP_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Lab Creating Bookhut Web Site using Servlets and JSP/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Lab Creating Bookhut Web Site using Servlets and JSP" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
